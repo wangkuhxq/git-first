@@ -1,0 +1,16 @@
+1.嵌入式系统介绍
+2.X6818开发板硬件介绍
+3.S5P6818处理器介绍
+4.启动方式介绍
+5.烧写uboot(TF和fastboot工具方式烧写)
+  熟悉uboot的命令
+  printenv
+  ping
+  setenv
+  saveenv
+6.掌握tftp网络服务
+  更新uboot为例：
+  tftp 48000000 ubootpak.bin
+  
+7.利用tftp网络服务下载和测试led.bin
+  
